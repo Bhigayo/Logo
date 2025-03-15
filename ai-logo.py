@@ -3,7 +3,7 @@ import streamlit as st
 import os
 
 # Set up OpenAI API Key (Replace with your actual API key)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 # Streamlit App UI
 st.title("AI Logo & Brand Identity Generator")
